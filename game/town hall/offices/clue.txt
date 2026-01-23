@@ -1,0 +1,5 @@
+Investigation Update:
+
+Through the window, you spot movement in the direction of the meeting rooms.
+
+Remember: Use 'cd "meeting rooms"' to follow this lead.
